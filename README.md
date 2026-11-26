@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Sunil Thakur
+#  Hi, I'm Sunil Thakur
 
-### 🚀 Aspiring AI/ML Engineer | Data Science Student
+###  Aspiring AI/ML Engineer | Data Science Student
 
-## 💫 About Me
+## 💫About Me
 
 Hi! I'm **Sunil Thakur**, a B.Tech Data Science student passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
 
